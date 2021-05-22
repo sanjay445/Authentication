@@ -1,5 +1,5 @@
 # Authentication
 Node.js /
-Expree.js /
+Express.js /
 Mongoose /
 MongoDB
